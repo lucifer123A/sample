@@ -1,0 +1,20 @@
+body{
+	color:brown;
+	background-color:pink;
+	font-family:joker;
+	font-weight:40%;
+	font-size:25px;
+}
+
+#special {
+	color:red;
+}
+
+h1 {
+	color:red;
+}
+
+img {
+	height:250px;
+	width:300px;
+}
